@@ -1,1 +1,3 @@
-# stock-analysis
+# A Stock Analysis
+
+## Project Overview
