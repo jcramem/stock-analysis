@@ -12,6 +12,10 @@ The analysis looked at several stocks over two years (2017 and 2018), focusing o
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png).
 
-As the data show, almost all stocks performed well in 2017 only to see a dramatic decrease in value in 2018. Two stocks showed positive gains in both years, however, ENPH (129.5% and 81.9%, respectively) and RUN (5.5% and 84.0%, respectively). It should be noted that one stock, VSLR, dropeed less than 5 percent in 2018 (-3.5%) after showing a positive gain in 2017 (50.0%). 
+As the data show, almost all stocks performed well in 2017 only to see a dramatic decrease in value in 2018. Two stocks showed positive gains in both years, however, ENPH (129.5% and 81.9%, respectively) and RUN (5.5% and 84.0%, respectively). It should be noted that one stock, VSLR, dropped less than 5 percent in 2018 (-3.5%) after showing a positive gain in 2017 (50.0%). 
+
+## Notes
+
+This analysis was the result of refactoring, or applying efficiencies to existing code. The benefits of refactoring are many. By taking fewer steps, using less memory, or improving the logic of the code, this approach leads to faster turnaround times, easier replication, and enhanced outputs.
 
 
